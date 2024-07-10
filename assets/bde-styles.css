@@ -1,0 +1,23 @@
+/* bde-styles.css */
+.um .um-field-error .um-error {
+    display: block;
+    margin-top: 10px;
+    color: #ff0000;
+    background-color: #ffe5e5;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.um .um-field-error .um-error button {
+    background-color: #0073aa;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.um .um-field-error .um-error button:hover {
+    background-color: #005177;
+}
